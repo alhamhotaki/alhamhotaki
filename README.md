@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Strategic and result-oriented business and data analyst with more than 10 years of general experience who enjoys interpreting and analysing businesses and data to drive successful business solutions. Proficient knowledge in analytics, statistics, mathematics, Python, SQL, TensorFlow analytics, machine learning algorithms, and Tableau.
 <!--
 **alhamhotaki/alhamhotaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
