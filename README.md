@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a business and data analyst with more than 10 years of general experience who enjoys interpreting and analysing businesses and data to drive successful business solutions. Proficient knowledge in analytics, statistics, mathematics, Python, SQL, TensorFlow analytics, machine learning algorithms, and Tableau. For more you can visit my linkedin profile @ https://www.linkedin.com/in/aohotaki/
+As a data scientist with over 12 years of diverse experience, I specialise in translating complex datasets into actionable business strategies. My extensive background encompasses a robust understanding of statistics, mathematics, and analytical techniques. I am adept at Python, SQL, TensorFlow, machine learning algorithms, and employing visualisation tools such as PowerBI and Tableau to communicate insights effectively. For more you can visit my linkedin profile @ https://www.linkedin.com/in/aohotaki/
 <!--
 **alhamhotaki/alhamhotaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
